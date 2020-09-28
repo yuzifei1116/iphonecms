@@ -18,7 +18,7 @@ return array (
   'site' => 
   array (
     'site_name' => '免费短视频分享大全 - 大中国',
-    'site_url' => 'www.test.cn',
+    'site_url' => 'www.aaaaaaaa1111111a.com',
     'site_wapurl' => 'wap.test.cn',
     'site_keywords' => '短视频,搞笑视频,视频分享,免费视频,在线视频,预告片',
     'site_description' => '提供最新最快的视频分享数据',
@@ -28,10 +28,10 @@ return array (
     'install_dir' => '/',
     'site_logo' => 'upload/site/20200928-1/b79db15ac8f5cb1de38ff9a17d5bdca5.jpg',
     'site_waplogo' => 'static/images/logo.jpg',
-    'template_dir' => 'b_new',
+    'template_dir' => 'b',
     'html_dir' => 'html',
     'mob_status' => '2',
-    'mob_template_dir' => 'b',
+    'mob_template_dir' => 'xuelunyan',
     'mob_html_dir' => 'html',
     'site_tj' => '统计代码',
     'site_status' => '1',

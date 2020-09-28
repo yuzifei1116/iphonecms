@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:31:"template/b/html/label\week.html";i:1567153060;s:61:"D:\phpstudy_pro\WWW\applecms\template\b\html\list\fjlist.html";i:1566886192;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:31:"template/b/html/label\week.html";i:1567153060;s:70:"D:\phpstudy_pro\WWW\applecms\applecms\template\b\html\list\fjlist.html";i:1566886192;}*/ ?>
 <?php include ('template/b/admin/yzm.config.php'); ?>
         						       <div class="column-lft">
          						          <div class="sort_nav ">

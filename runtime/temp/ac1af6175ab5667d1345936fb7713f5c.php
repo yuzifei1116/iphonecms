@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:74:"D:\phpstudy_pro\WWW\applecms\applecms/application/admin\view\make\opt.html";i:1579008638;s:77:"D:\phpstudy_pro\WWW\applecms\applecms\application\admin\view\public\head.html";i:1579008638;s:77:"D:\phpstudy_pro\WWW\applecms\applecms\application\admin\view\public\foot.html";i:1579008638;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:74:"D:\phpstudy_pro\WWW\applecms\applecms/application/admin\view\make\opt.html";i:1579008638;s:77:"D:\phpstudy_pro\WWW\applecms\applecms\application\admin\view\public\head.html";i:1601258728;s:77:"D:\phpstudy_pro\WWW\applecms\applecms\application\admin\view\public\foot.html";i:1579008638;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

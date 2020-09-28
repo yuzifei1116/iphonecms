@@ -19,19 +19,19 @@
     array (
       'link' => 'https://jsui.cn',
       'title' => '二站',
-      'state' => '1',
+      'state' => '0',
     ),
     'guide2' => 
     array (
       'link' => 'https://jsui.cn',
       'title' => '导航',
-      'state' => '1',
+      'state' => '0',
     ),
     'guide3' => 
     array (
       'link' => 'https://jsui.cn',
       'title' => '测试',
-      'state' => '1',
+      'state' => '0',
     ),
     'guide4' => 
     array (
